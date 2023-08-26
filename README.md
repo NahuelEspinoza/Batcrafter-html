@@ -25,3 +25,4 @@ Personalización: Aunque se proporciona una estructura básica, puedes personali
 
 Licencia
 Este proyecto está bajo la Licencia MIT, lo que significa que tienes libertad para utilizarlo, modificarlo y distribuirlo bajo ciertas condiciones. Para más detalles, consulta el archivo LICENSE en el repositorio.
+
